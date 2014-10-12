@@ -1,0 +1,6 @@
+C:\Users\Jeff\Desktop\Lessons\Beginning_Functions\Beginning_Functions\bin\Debug\Beginning_Functions.exe.config
+C:\Users\Jeff\Desktop\Lessons\Beginning_Functions\Beginning_Functions\bin\Debug\Beginning_Functions.exe
+C:\Users\Jeff\Desktop\Lessons\Beginning_Functions\Beginning_Functions\bin\Debug\Beginning_Functions.pdb
+C:\Users\Jeff\Desktop\Lessons\Beginning_Functions\Beginning_Functions\obj\Debug\Beginning_Functions.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Desktop\Lessons\Beginning_Functions\Beginning_Functions\obj\Debug\Beginning_Functions.exe
+C:\Users\Jeff\Desktop\Lessons\Beginning_Functions\Beginning_Functions\obj\Debug\Beginning_Functions.pdb
